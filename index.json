@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "doc-builder",
+  "versions": [
+    {
+      "commit": "90ddd199e07144a13408c523680c76987343c95f",
+      "tag": "",
+      "parsed_at": "2026-10-17T02:40:41.887468+00:00"
+    }
+  ]
+}
